@@ -1,4 +1,4 @@
 @font-face {
-  font-family: OpenDyslexic;
-  src: url(OpenDyslexic-Regular.woff2);
+  font-family: 'OpenDyslexic';
+  src: url('OpenDyslexic-Regular.woff2') format('woff2');
 }
